@@ -65,7 +65,8 @@
 <a href="https://pytorch.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/pytorch-icon.svg" alt="pytorch" height="50" /></a>  
 <a href="https://opencv.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/opencv-icon.svg" alt="OpenCV" height="50" /></a>  
 <a href="https://www.tensorflow.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/tensorflow-icon.svg" alt="TensorFlow" height="50" /></a>  
-<a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="50" height="50"/> </a>
+<a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="50" height="50"/> </a>   
+<a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a>
 </div>
 
 </td></tr></table>  
@@ -84,13 +85,21 @@
 </div>  
   
 
-<br/>  
+<br/>
 
+## Most Used Languages
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=choijaewoon&show_icons=true&locale=en&layout=compact" alt="choijaewoon" /></p>
 
-## Github Stats  
+<br/>
+
 <div align="center"><img src="https://github-readme-stats.vercel.app/api?username=ChoiJaeWoon&show_icons=true&count_private=true&hide_border=true" align="center" /></div>  
 
-<br/>  
+<br/>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=choijaewoon&" alt="choijaewoon" /></p>
+
+<br/>
+
 
 
 ## Recent Blog Posts  
