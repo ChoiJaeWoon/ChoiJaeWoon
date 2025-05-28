@@ -88,9 +88,9 @@
 <br/>
 
 ## Github Stats
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=choijaewoon&show_icons=true&locale=en&layout=compact" alt="choijaewoon" /></p>  
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=choijaewoon&show_icons=true&locale=en&layout=compact" alt="choijaewoon" /></p>  
 
-<br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/>
+<br/>
 
 <div align="center"><img src="https://github-readme-stats.vercel.app/api?username=ChoiJaeWoon&show_icons=true&count_private=true&hide_border=true" align="center" /></div>  
 
