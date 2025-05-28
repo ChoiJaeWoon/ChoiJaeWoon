@@ -88,11 +88,12 @@
 <br/>
 
 ## Github Stats
-<div align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs?username=choijaewoon&show_icons=true&locale=en&layout=compact" alt="choijaewoon" align="center" /></div>  
+
+<div align="center"><img src="https://github-readme-stats.vercel.app/api?username=ChoiJaeWoon&show_icons=true&count_private=true&hide_border=true" align="center" /></div>  
 
 <br/>
 
-<div align="center"><img src="https://github-readme-stats.vercel.app/api?username=ChoiJaeWoon&show_icons=true&count_private=true&hide_border=true" align="center" /></div>  
+<div align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs?username=choijaewoon&show_icons=true&locale=en&layout=compact" alt="choijaewoon" align="center" /></div>  
 
 <br/>
 
