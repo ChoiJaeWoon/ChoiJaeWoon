@@ -87,8 +87,8 @@
 
 <br/>
 
-## Most Used Languages
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=choijaewoon&show_icons=true&locale=en&layout=compact" alt="choijaewoon" /></p>
+## Github Stats
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=choijaewoon&show_icons=true&locale=en&layout=compact" alt="choijaewoon" /></p>  
 
 <br/>
 
@@ -96,7 +96,7 @@
 
 <br/>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=choijaewoon&" alt="choijaewoon" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=choijaewoon&" alt="choijaewoon" /></p>  
 
 <br/>
 
